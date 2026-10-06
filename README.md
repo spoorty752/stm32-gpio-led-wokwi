@@ -1,10 +1,10 @@
-# STM32 GPIO LED Control — Wokwi
+# Arduino GPIO LED Control — Wokwi
 
 My first hands-on Embedded C hardware simulation project using Wokwi.
 
 ## Project
 
-This project demonstrates basic GPIO output control by making an LED blink using a microcontroller simulation.
+This project demonstrates basic GPIO output control by making an LED blink using an Arduino Uno simulation.
 
 ## Concepts Learned
 
@@ -28,20 +28,11 @@ The program:
 5. Waits 200 ms
 6. Repeats continuously
 
-## Learning Path
-
-Embedded C
-→ GPIO
-→ Registers
-→ UART
-→ SPI / I2C
-→ CAN
-→ Automotive Embedded Systems
-
 ## Tools
 
 - Wokwi
-- Embedded C
+- Arduino Uno
+- C / Arduino programming
 - GitHub
 
 ## Learning Reference
@@ -53,7 +44,8 @@ This project was built as a hands-on learning exercise based on the concepts dem
 
 ## Next Steps
 
-- GPIO register manipulation
+- Understand GPIO registers
+- STM32 GPIO
 - STM32 HAL
 - UART communication
 - Interrupts
